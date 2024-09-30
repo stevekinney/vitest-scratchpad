@@ -1,3 +1,3 @@
-# vitest-scratchpad
+# Vitest Scratchpad
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/stevekinney/vitest-scratchpad)
+A simple little playground to go along with the [Introduction to Testing course](https://stevekinney.net/courses/testing) on [Frontend Masters](https://frontendmasters.com).
